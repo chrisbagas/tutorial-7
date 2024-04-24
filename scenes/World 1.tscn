@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="World 1" type="Spatial"]
+
+[node name="Room 1" type="CSGBox" parent="."]
+use_collision = true
+invert_faces = true
+width = 61.2081
+height = 39.953
+depth = 120.115
